@@ -9,64 +9,64 @@
 */
 
 [{
-    description: "The site for uwuers/owo.rs"
-    domain: "my.owo.rs",
-    contact: {
-        username: "kanbaru",
-        email: "emma@uwu.rs"
+    "description": "The site for https://github.com/uwuers/owo.rs/"
+    "domain": "my.owo.rs",
+    "contact": {
+        "username": "kanbaru",
+        "email": "emma@uwu.rs"
     },
-    dns: {
-        a: "redacted" // Redacted for privacy.
+    "dns": {
+        "a": "redacted" // Redacted for privacy.
     }
 }, {
-    description: "My personal website."
-    domain: "emma.owo.rs",
-    contact: {
-        gh_username: "kanbaru",
-        email: "emma@uwu.rs"
+    "description": "My personal website."
+    "domain": "emma.owo.rs",
+    "contact": {
+        "gh_username": "kanbaru",
+        "email": "emma@uwu.rs"
     },
-    dns: {
-        cname: "cname.vercel-dns.com"
+    "dns": {
+        "cname": "cname.vercel-dns.com"
     }
 }, {
-    description: "Redirection to uwu.rs."
-    domain: "owo.rs",
-    contact: {
-        username: "kanbaru",
-        email: "emma@uwu.rs"
+    "description": "Redirection to uwu.rs."
+    "domain": "owo.rs",
+    "contact": {
+        "username": "kanbaru",
+        "email": "emma@uwu.rs"
     },
-    dns: {
-        cname: "cname.vercel-dns.com"
+    "dns": {
+        "cname": "cname.vercel-dns.com"
     }
 }, {
-    description: "Private image subdomain."
-    domain: "i.owo.rs",
-    contact: {
-        username: "kanbaru",
-        email: "emma@uwu.rs"
+    "description": "Private image subdomain."
+    "domain": "i.owo.rs",
+    "contact": {
+        "username": "kanbaru",
+        "email": "emma@uwu.rs"
     },
-    dns: {
-        a: "redacted" // Redacted for privacy.
+    "dns": {
+        "a": "redacted" // Redacted for privacy.
         // If you want a redacted A record, mention that when you make your PR and we can help you.
     }
 }, {
-    description: "Private url shortener."
-    domain: "aka.owo.rs",
-    contact: {
-        username: "kanbaru",
-        email: "emma@uwu.rs"
+    "description": "Private url shortener."
+    "domain": "aka.owo.rs",
+    "contact": {
+        "username": "kanbaru",
+        "email": "emma@uwu.rs"
     },
-    dns: {
-        cname:"cname.vercel-dns.com
+    "dns": {
+        "cname":"cname.vercel-dns.com
     }
 },{
-    description: "Private url shortener."
-    domain: "bv.owo.rs",
-    contact: {
-        username: "bvoo",
-        twitter: "bvoo"
+    "description": "Personal site."
+    "domain": "bv.owo.rs",
+    "contact": {
+        "username": "bvoo",
+        "twitter": "bvoo"
     },
-    dns: {
-        cname: "bvoo.xyz"
+    "dns": {
+        "cname": "bvoo.xyz"
     }
 },]
