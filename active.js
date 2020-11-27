@@ -8,8 +8,8 @@
 * 3) There has to be a reasonable amount of content on your page. This is to make sure there is a purpose for it and to help stop potential abuse.
 */
 
-[{
-    "description": "The site for https://github.com/uwuers/owo.rs/"
+let active = [{
+    "description": "The site for https://github.com/uwuers/owo.rs/",
     "domain": "my.owo.rs",
     "contact": {
         "username": "kanbaru",
@@ -19,7 +19,7 @@
         "a": "redacted" // Redacted for privacy.
     }
 }, {
-    "description": "My personal website."
+    "description": "My personal website.",
     "domain": "emma.owo.rs",
     "contact": {
         "gh_username": "kanbaru",
@@ -29,7 +29,7 @@
         "cname": "cname.vercel-dns.com"
     }
 }, {
-    "description": "Redirection to uwu.rs."
+    "description": "Redirection to uwu.rs.",
     "domain": "owo.rs",
     "contact": {
         "username": "kanbaru",
@@ -39,7 +39,7 @@
         "cname": "cname.vercel-dns.com"
     }
 }, {
-    "description": "Private image subdomain."
+    "description": "Private image subdomain.",
     "domain": "i.owo.rs",
     "contact": {
         "username": "kanbaru",
@@ -50,7 +50,7 @@
         // If you want a redacted A record, mention that when you make your PR and we can help you.
     }
 }, {
-    "description": "Private url shortener."
+    "description": "Private url shortener.",
     "domain": "aka.owo.rs",
     "contact": {
         "username": "kanbaru",
@@ -60,7 +60,7 @@
         "cname":"cname.vercel-dns.com
     }
 },{
-    "description": "Personal site."
+    "description": "Personal site.",
     "domain": "bv.owo.rs",
     "contact": {
         "username": "bvoo",
