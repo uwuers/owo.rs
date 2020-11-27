@@ -5,7 +5,7 @@ get your own owo.rs subdomain here!
 
 to get your own, fork the project.
 
-in `active.json`, fill ouy your info. it should look kinda like this.
+in `active.js`, fill ouy your info. it should look kinda like this.
 ```
 {
     description: "Your description. This has to be accurate and may include a link to a GitHub repository."
@@ -22,6 +22,7 @@ in `active.json`, fill ouy your info. it should look kinda like this.
     }
 },
 ```
+Then, you should submit a pull request.
 
 ### why?
 cause i wanted to.
