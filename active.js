@@ -69,4 +69,15 @@ let active = [{
     "dns": {
         "cname": "bvoo.xyz"
     }
+},{
+    "description": "My Personal Development Website (Where all most ChisdealHDYT Source codes can be Stored all in 1 Site)",
+    "domain": "chisdealhdyt.owo.rs",
+    "contact": {
+        "username": "chisdealhdyt",
+        "twitter": "@chisdealhd",
+        "discord": "ChisdealHDYT#7172"      
+    },
+    "dns": {
+        "cname":"chisdealhd.co.uk"
+    }
 },]
