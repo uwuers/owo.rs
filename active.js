@@ -80,4 +80,16 @@ let active = [{
     "dns": {
         "cname":"chisdealhd.co.uk"
     }
+},{
+    "description": "0/0's personal website",
+    "domain": "zero.owo.rs",
+    "contact": {
+        "username": "tazz4843",
+        "discord": "0/0#0001",
+        "email": "zero@imaskeleton.me",
+        "reddit": "u/tazz4843"
+    },
+    "dns": {
+        "cname":"imaskeleton.me"
+    }
 },]
