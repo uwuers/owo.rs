@@ -92,4 +92,14 @@ let active = [{
     "dns": {
         "cname":"imaskeleton.me"
     }
+},{
+    "description": "Lucasite",
+    "domain": "lucas.owo.rs",
+    "contact": {
+        "username": "luqaska",
+        "reddit": "u/LogoKidd"
+    },
+    "dns": {
+        "cname":"luqaska.github.io"
+    }
 },]
