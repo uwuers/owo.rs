@@ -102,4 +102,14 @@ let active = [{
     "dns": {
         "cname":"ruby.js.org"
     }
+},{
+    "description": "BALLOON | FU-SEN's personal website",
+    "domain": "fu-sen.owo.rs",
+    "contact": {
+        "username": "fu-sen",
+        "discord": "balloon#3295"
+    },
+    "dns": {
+        "cname":"vps53.heliohost.us"
+    }
 },]
